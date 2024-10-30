@@ -1,6 +1,6 @@
 <h1>Hi, I'm gunaseelan! <br/><a href="(https://github.com/Gunaseelan2507/Gunaseelan-Rajadurai)">Cloud SaaS Application Support Admin | System Support Analyst | Desktop Engineer | Windows Deployment Analyst | IAM Analyst | Microsoft Office 365 Admin | IT Incident Analyst</h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Windows deployment project:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)

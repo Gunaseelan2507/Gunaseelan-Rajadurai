@@ -21,24 +21,29 @@
 </h3>
 
 <h2>👨‍💻 Windows deployment project:</h2>
+
+
 <p> Coming Soon ............</p>
 
 
 
 
 <h2> 🤳 Connect with me:</h2>
+<p>You can reach me at <a href="mailto:gunaseelanr@hotmail.com">E-Mail</a>.</p>
+
+
 <a href="https://www.linkedin.com/in/gunaseelan-rajadurai/" target="_blank">LinkedIn Profile</a><br>
 <a href="https://www.facebook.com/profile.php?id=100063591582409" target="_blank">Facebook Profile</a><br>
 <a href="https://www.instagram.com/gunaseelan_rajadurai/" target="_blank">Instagram Profile</a><br>
 <a href="https://www.facebook.com/SEELANART/" target="_blank">Seelan Art on Facebook</a>
 
 
-Here are some ideas to get you started:
+
+Missions 
 
 - 🔭 I’m currently working on and looking for new challenging oppotunity...
 - 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+ ...
 - 📫 How to reach me: ...
 
 -->

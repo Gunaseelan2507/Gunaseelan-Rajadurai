@@ -6,9 +6,9 @@
   – Provided comprehensive support and administration for cloud-based applications, ensuring optimal performance and user satisfaction.</p>
 <h3><p><b>System Support Analyst</b></p>h3> 
   – Delivered in-depth system support, managing incidents and ensuring stability through proactive monitoring and troubleshooting.</p>
-<p><b>Desktop Engineer</b> 
+<h3><p><b>Desktop Engineer</b></p></h3>
   – Specialized in desktop configuration, setup, and maintenance, resolving hardware and software issues to minimize downtime for end users.</p>
-<p><b>Windows Deployment Support Analyst</b> 
+<h3><p><b>Windows Deployment Support Analyst</b></p></h3>
   – Managed and executed Windows OS deployments, implementing best practices in patch management and OS hardening for secure systems.</p>
 <p><b>Identity and Access Management Analyst</b> 
   – Administered Identity and Access Management, overseeing user provisioning and permissions to maintain security across systems.</p>

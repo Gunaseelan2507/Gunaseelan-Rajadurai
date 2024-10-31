@@ -1,4 +1,15 @@
-<h1>Hi, I'm gunaseelan! <br/><a href="(https://github.com/Gunaseelan2507/Gunaseelan-Rajadurai)">Cloud SaaS Application Support Admin | System Support Analyst | Desktop Engineer | Windows Deployment Analyst | IAM Analyst | Microsoft Office 365 Admin | IT Incident Analyst</h1>
+<h1>Hi, I'm gunaseelan! <br/><a href="(https://github.com/Gunaseelan2507/Gunaseelan-Rajadurai)">
+<p>I have worked in the following roles and have hands-on experience with each position:</p>
+<ul>
+    <li>Cloud SaaS Application Support Admin</li>
+    <li>System Support Analyst</li>
+    <li>Desktop Engineer</li>
+    <li>Windows Deployment Analyst</li>
+    <li>IAM Analyst</li>
+    <li>Microsoft Office 365 Admin</li>
+    <li>IT Incident Analyst</li>
+</ul>
+</h1>
 
 <h2>👨‍💻 Windows deployment project:</h2>
 

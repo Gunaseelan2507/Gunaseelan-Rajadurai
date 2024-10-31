@@ -4,24 +4,24 @@
 
 <h3><p><b>SaaS Application Admin</b></p></h3> 
   – Provided comprehensive support and administration for cloud-based applications, ensuring optimal performance and user satisfaction.</p>
-<h3><p><b>System Support Analyst</b></p>h3> 
+<h3><p><b>System Support Analyst</b></p></h3> 
   – Delivered in-depth system support, managing incidents and ensuring stability through proactive monitoring and troubleshooting.</p>
 <h3><p><b>Desktop Engineer</b></p></h3>
   – Specialized in desktop configuration, setup, and maintenance, resolving hardware and software issues to minimize downtime for end users.</p>
 <h3><p><b>Windows Deployment Support Analyst</b></p></h3>
   – Managed and executed Windows OS deployments, implementing best practices in patch management and OS hardening for secure systems.</p>
-<p><b>Identity and Access Management Analyst</b> 
+<h3><p><b>Identity and Access Management Analyst</b></p></h3>
   – Administered Identity and Access Management, overseeing user provisioning and permissions to maintain security across systems.</p>
-<p><b>Microsoft Office 365 Admin</b> 
+  <h3><p><b>Microsoft Office 365 Admin</b></p></h3>
   – Administered and managed Office 365 services, optimizing collaboration tools and troubleshooting issues to support productivity.</p>
-<p><b>IT Incident Analyst</b> 
+  <h3><p><b>IT Incident Analyst</b></p></h3> 
   – Actively monitored and resolved IT incidents, documenting responses and implementing preventive measures to improve overall response efficiency.</p>
-<p><b>Desktop Support Analyst</b> 
+  <h3><p><b>Desktop Support Analyst</b></p></h3> 
   – Provided end-user support for desktop systems, handling hardware and software issues to maintain seamless functionality across devices.</p>
 </h3>
 
 <h2>👨‍💻 Windows deployment project:</h2>
-
+<p> Coming Soon ............</p>
 
 
 

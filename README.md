@@ -1,4 +1,4 @@
-<h1>Hi, I'm gunaseelan! <br/><a href="(https://github.com/Gunaseelan2507/Gunaseelan-Rajadurai)">
+<h3>Hi, I'm gunaseelan! <br/><a href="(https://github.com/Gunaseelan2507/Gunaseelan-Rajadurai)">
 <p>I have worked in the following roles and have hands-on experience with each position:</p>
 <ul>
     <li>Cloud SaaS Application Support Admin</li>
@@ -9,7 +9,7 @@
     <li>Microsoft Office 365 Admin</li>
     <li>IT Incident Analyst</li>
 </ul>
-</h1>
+</h3>
 
 <h2>👨‍💻 Windows deployment project:</h2>
 

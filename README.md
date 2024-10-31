@@ -7,10 +7,10 @@
 
 
 <h2> 🤳 Connect with me:</h2>
-https://www.linkedin.com/in/gunaseelan-rajadurai/
-https://www.facebook.com/profile.php?id=100063591582409
-https://www.instagram.com/gunaseelan_rajadurai/
-https://www.facebook.com/SEELANART/
+<a href="https://www.linkedin.com/in/gunaseelan-rajadurai/" target="_blank">LinkedIn Profile</a><br>
+<a href="https://www.facebook.com/profile.php?id=100063591582409" target="_blank">Facebook Profile</a><br>
+<a href="https://www.instagram.com/gunaseelan_rajadurai/" target="_blank">Instagram Profile</a><br>
+<a href="https://www.facebook.com/SEELANART/" target="_blank">Seelan Art on Facebook</a>
 
 
 Here are some ideas to get you started:

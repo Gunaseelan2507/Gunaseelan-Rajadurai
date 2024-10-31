@@ -1,14 +1,13 @@
 <h3>Hi, I'm gunaseelan! <br/><a href="(https://github.com/Gunaseelan2507/Gunaseelan-Rajadurai)">
-<p>I have worked in the following roles and have hands-on experience with each position:</p>
-<ul>
-    <li>Cloud SaaS Application Support Admin</li>
-    <li>System Support Analyst</li>
-    <li>Desktop Engineer</li>
-    <li>Windows Deployment Analyst</li>
-    <li>IAM Analyst</li>
-    <li>Microsoft Office 365 Admin</li>
-    <li>IT Incident Analyst</li>
-</ul>
+<p>I have extensive hands-on experience in the following roles, where I applied my skills in IT support and administration effectively:</p>
+<p><b>Cloud SaaS Application Support Admin</b> – Provided comprehensive support and administration for cloud-based applications, ensuring optimal performance and user satisfaction.</p>
+<p><b>System Support Analyst</b> – Delivered in-depth system support, managing incidents and ensuring stability through proactive monitoring and troubleshooting.</p>
+<p><b>Desktop Engineer</b> – Specialized in desktop configuration, setup, and maintenance, resolving hardware and software issues to minimize downtime for end users.</p>
+<p><b>Windows Deployment Analyst</b> – Managed and executed Windows OS deployments, implementing best practices in patch management and OS hardening for secure systems.</p>
+<p><b>IAM Analyst</b> – Administered Identity and Access Management, overseeing user provisioning and permissions to maintain security across systems.</p>
+<p><b>Microsoft Office 365 Admin</b> – Administered and managed Office 365 services, optimizing collaboration tools and troubleshooting issues to support productivity.</p>
+<p><b>IT Incident Analyst</b> – Actively monitored and resolved IT incidents, documenting responses and implementing preventive measures to improve overall response efficiency.</p>
+
 </h3>
 
 <h2>👨‍💻 Windows deployment project:</h2>

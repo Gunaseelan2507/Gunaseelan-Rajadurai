@@ -29,7 +29,7 @@
 
 
 <h2> 🤳 Connect with me:</h2>
-<p>You can reach me at <a href="mailto:gunaseelanr@hotmail.com">E-Mail</a>.</p>
+
 
 
 <a href="https://www.linkedin.com/in/gunaseelan-rajadurai/" target="_blank">LinkedIn Profile</a><br>
@@ -44,6 +44,6 @@ Missions
 - 🔭 I’m currently working on and looking for new challenging oppotunity...
 - 🌱 I’m currently learning ...
  ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: ...<p>You can reach me at <a href="mailto:gunaseelanr@hotmail.com">E-Mail</a>.</p>
 
 -->

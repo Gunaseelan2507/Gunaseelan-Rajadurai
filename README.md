@@ -1,9 +1,10 @@
 <h3>Hello !, I'm gunaseelan! <br/><a href="(https://github.com/Gunaseelan2507/Gunaseelan-Rajadurai)">
   
 <p>I have extensive hands-on experience in the following roles, where I applied my skills in IT support and administration effectively:</p>
-<p><b>SaaS Application Admin</b> 
+
+<h3><p><b>SaaS Application Admin</b></p></h3> 
   – Provided comprehensive support and administration for cloud-based applications, ensuring optimal performance and user satisfaction.</p>
-<p><b>System Support Analyst</b> 
+<h3><p><b>System Support Analyst</b></p>h3> 
   – Delivered in-depth system support, managing incidents and ensuring stability through proactive monitoring and troubleshooting.</p>
 <p><b>Desktop Engineer</b> 
   – Specialized in desktop configuration, setup, and maintenance, resolving hardware and software issues to minimize downtime for end users.</p>
